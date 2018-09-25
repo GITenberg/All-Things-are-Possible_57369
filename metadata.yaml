@@ -1,0 +1,36 @@
+_repo: All-Things-are-Possible_57369
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Davison, Lawrence H. (Lawrence Herbert)
+    - Lawrence, D.H.
+    - Lawrence, David Herbert
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
+  translator:
+    agent_name: Koteliansky, Samuel Solominivitch
+    gutenberg_agent_id: '49349'
+    url: http://www.gutenberg.org/2009/agents/49349
+creator:
+  author:
+    agent_name: Shestov, Lev
+    gutenberg_agent_id: '49023'
+    url: http://www.gutenberg.org/2009/agents/49023
+description: ''
+gutenberg_issued: '2018-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57369'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: All Things are Possible
+url: http://www.gutenberg.org/ebooks/57369
